@@ -1,7 +1,7 @@
 export PYTHONPATH=.
 
 # load the original llama 3.1 tokenizer using an active read-only hf_token
-export HF_TOKEN=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
+export HF_TOKEN="my hf test token"
 # tokenizer_model_path
 #export TOKENIZER_PATH=meta-llama/Meta-Llama-3.1-8B-Instruct
 export TOKENIZER_PATH=/home/pop/hosting/medical/med-model/LLaVA-Med-Captioner/llava-llama-med-8b-captioner
